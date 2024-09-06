@@ -1,1 +1,33 @@
 Jibrael thomas 
+Ian Kimble.
+
+About Me Activity: Part 1
+
+Please copy and paste the questions below and answer them in 
+the aboutme.txt file we created a few days ago. When your finish, submit
+your activity by using the source control button. Remember: before you 
+can successfully submit your work you need to provide a comment/ description
+in the text box in soucre control to submit your work. 
+
+1. In a 3-4 sentences, please tell me about yourself. What are your hobbies outside of school.  
+I dont really do anything outside of school except for my work. But when october comes I will be playing sports. i also have a youtube where i post gaming vids.
+
+2. Do you have someone in your network of family and friends that works in tech? If yes, please
+describe what they do and how you are connected to them.No I dont 
+
+3. Do you plan on attending college? If yes, what are you interested in studying 
+(if you know you want to got to college, but unsure of what you want to study, thats alright.)
+ I do plan on attending coellege and i am going for my masters then eletrical engeneering.
+4. In your own words, what do you think will be the hardest thing about learning coding?
+ Probaly the actually coding would be hard because i I know that you have to pay so much attention which i struggle with.
+5. Bonus:
+Do you watch the NFL? If yes, who is your favorite team, and what will your teams record
+be at the end of the season? My favriote team is eagles i think we will be 12 and 9
+
+About Me Activity: Part 2
+
+Once you have completed the first part of this activity, please use the following
+link below to complete the course kickoff survey. 
+
+Survey link:
+https://forms.gle/HCLfdGwUqoz1smjW9
