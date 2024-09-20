@@ -1,0 +1,4 @@
+Html is the b
+Camel case- Writing names where the first word begins with a lowercase letter.
+Pasxal- writing names where teh first letter of each word is upercase.
+Snake case- Writing names with a symbol.
