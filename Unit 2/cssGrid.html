@@ -1,16 +1,19 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Css Grid </title>
-  <style>
-.grid-container {}
- .example{
-background-color: blue;
-height:100px;
-  width:100px;
 
-}
- </style>
+<head>
+  <title>Css Grid </title>
+  <style>
+    .grid-container {  display: grid;
+      grid-template-columns: auto auto auto auto;}
+
+    .example {
+      background-color: blue;
+      height: 100px;
+      width: 100px;
+
+    }
+  </style>
 </head>
 
 <!--Everything ON A WEBSITE THAT IS VISIBLE
@@ -18,11 +21,19 @@ GOES INSIDE THE BODY TAG-->
 
 
 <body>
-<div class="example">1</div>
-<div class="example">2</div>
-<div>3</div>
-<div>4</div>
-<div>5</div>
-<div>6</div>
+  <div class="grid-container">
+    <div class= "item1">Nav</div>
+    <div class="item2">Main content</div>
+    <div class="item3">Advertisment</div>
+    <div class="item4">option 1 </div>
+    <div class="item5">option 2</div>
+    <div class="item6">option 3</div>
+    <div class="item7">footer</div>
+  </divclass>>
+   
+
+
+
 </body>
+
 </html>
