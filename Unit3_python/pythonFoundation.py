@@ -32,3 +32,35 @@ valA=10
 valB=20
 
 print( valA + valB)
+
+
+
+
+
+
+
+
+#python cariables are just containers for data
+
+eamail = 'jthomas@boyslatin.net'
+checkingAccount = 20000.43
+didYougetTheFlueshot = True # boolian data type
+userLogin_passwordReset_premiumMemeber = ''
+user_password = ''
+discount25 = .25
+
+# Camal  case= when naming a variable
+# everyword after the first word is capitilized
+logInName = ''
+resetPasswordCode =''
+
+# Snake Case = when naming a variable, every word after 
+# the first word is spaced out with an underscore.
+
+login_username= ''
+reset_password_code = ''
+
+#pascal case =  when naming a variable Every new word is capitilized
+LoginName = ''
+ResetPasswordCode = ''
+
