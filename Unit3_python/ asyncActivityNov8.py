@@ -6,7 +6,8 @@ time ='at the time of 8:30'
 print(storyA, location, time )
 
 
-rules = ' we write variables by first declaring =/ giving it a name we then give it data '
+rules = ' we write variables by first declaring =/ giving it a name we then give it data / you could not have a number / variable names should be short and descriptive'
+
 print( rules )
 
 camelCase ='when naming a variable everyword after the first word is capitilized '
