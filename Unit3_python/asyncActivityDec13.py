@@ -19,4 +19,4 @@ def shoppingDiscount(membership,itemName,itemPrice):
  if membership == 'superShoper': 
     discountAmount = itemPrice =0.1
     finalAmount = itemPrice -discountAmount
-    
+  
