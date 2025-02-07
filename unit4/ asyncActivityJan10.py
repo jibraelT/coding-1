@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 frozenFoods = ['pizza','fries','chicken','broccili','carrots']
 internationalFoods = ['sushi','dumplins','stuffed peppers','soup potatoes','shashlik']
 produceFoods = ['apples','bananna','grapes','cabbages','onions']
