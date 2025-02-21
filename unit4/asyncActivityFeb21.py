@@ -1,0 +1,5 @@
+print("columbus voyages")
+print("adventure action")
+print("basically columbus has to voyage to diffent islands to find his friends the game ends when he finds all of them there will also be a score bonus to each level dgoing off of mob kills")
+print("my game takes inspiration from mario party 3d world. Like killing mobs while going through levels is similiar. checkpoints similiar. Then there would be other people you can play as for multiplayer")
+print("The mechanics are very simple ike mario party's mechanics there would be a double jump, a wall jump, Hand to hand combat will be tapping one key.My game would also have differnt wapon mechanics like devil may cry")
